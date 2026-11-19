@@ -147,7 +147,7 @@ GET /generate?text=hello
 
 ```json
 {
-  "text": "Hello Varsha"
+  "text": "Hello Chandra Mani"
 }
 ```
 
@@ -157,7 +157,7 @@ GET /generate?text=hello
 {
   "tokens": [
     "Hello",
-    "Varsha"
+    "Chandra Mani"
   ],
   "checksum": "<generated SHA-256 checksum>"
 }
@@ -257,7 +257,7 @@ Through this project, developers can:
 
 ## Author
 
-Varsha
+Chandra Mani Patel
 
 ## Version
 
