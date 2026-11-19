@@ -107,7 +107,7 @@ http://127.0.0.1:8000
 
 ```json
 {
-  "message": "Welcome, Varsha! Your Text Token API is ready."
+  "message": "Welcome, Chandra Mani! Welcome to the Python Text Checksum Generator Application. Enter your text to generate its SHA-256 checksum."
 }
 ```
 
