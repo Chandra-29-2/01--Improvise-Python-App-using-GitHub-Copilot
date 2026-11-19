@@ -13,7 +13,7 @@ class TextRequest(BaseModel):
 @app.get("/")
 def welcome():
     return {
-        "message": "Welcome Varsha!"
+        "message": "Welcome Chandra Mani!"
     }
 
 @app.post("/generate")
