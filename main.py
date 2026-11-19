@@ -3,7 +3,7 @@ from pydantic import BaseModel
 
 app = FastAPI(
     title="Text Token API",
-    description="Welcome Varsha! Generate tokens and checksums.",
+    description="Welcome, Chandra Mani! Welcome to the Python Text Checksum Generator Application. Enter your text to generate its SHA-256 checksum.",
     version="1.0.0"
 )
 
